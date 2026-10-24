@@ -33,15 +33,3 @@ Subscribe to threat intelligence feeds
 Monitor logs and use detection tools (SIEM, EDR)
 Run incident response drills
 Vulnerabilities (remove the weakness)
-
-Regular vulnerability scans and pen tests
-Patch management and secure configuration
-Least privilege, MFA, security awareness training
-Self-check
-A zero-day in your VPN appliance is a ______. (vulnerability)
-The nation-state group exploiting it is a ______. (threat)
-Likelihood x impact of that exploit succeeding is ______. (risk)
-Further reading
-NIST SP 800-30: Guide for Conducting Risk Assessments
-MITRE ATT&CK (threat behaviours) and CVE/NVD (vulnerabilities)
-OWASP Top 10
