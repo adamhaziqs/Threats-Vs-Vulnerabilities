@@ -1,4 +1,4 @@
-# Threats-Vs-Vulnerabilities
+# Threats Vs Vulnerabilities
 Threats vs Vulnerabilities
 A quick reference on one of the most commonly confused pairs in security: threats and vulnerabilities.
 
